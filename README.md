@@ -3,14 +3,15 @@
 
 VCD Spectra Alignment (VSA)
 
-Lennard Boeselt
+Lennard Böselt
 
 Alpha version (v0.6)
 
-The idea behind this project is two-folded:
-1. Automatically identify the individual scaling factors of each normal-mode. 
+The idea behind this approach is two fold:
+1. Automatically identify the individual scaling factors of each normal mode. 
 2. Determine the absolute stereochemistry of the given molecule.
-If users of this code find any bugs, or have molecules where this given approach does not work, we would be very pleased if this could be shared with us.
+
+If users of this code find any bugs, or have molecules where this given approach does not work, please share it with us.
 
 TO BE ADDED:
 1. INSTALLATION GUIDE
