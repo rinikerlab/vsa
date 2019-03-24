@@ -1,8 +1,9 @@
 # vsa
 
-## Lennard Boeselt
+
 VCD Spectra Alignment (VSA)
-Alpha version
+Lennard Boeselt
+Alpha version (v0.6)
 The idea behind this project is two-folded:
 1. Automatically identify the individual scaling factors of each normal-mode. 
 2. Determine the absolute stereochemistry of the given molecule.
