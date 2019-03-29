@@ -14,15 +14,17 @@ The idea behind this approach is two fold:
 If users of this code find any bugs, or have molecules where this given approach does not work, please share it with us.
 
 
-1. INSTALLATION GUIDE
+  1. INSTALLATION GUIDE
 
-Requirements:
+  Requirements:
   - Tested under:
     - Centos 7.6 and Ubuntu 18.04
     - GCC compiler 4.8.5 and 5.2.0, c++11 standard
-Compilation:
+
+  Compilation:
   - g++ -std=c++11 *.cpp -o VSA.out
-2. EXAMPLE FILES
+  
+  2. EXAMPLE FILES
 
 
 TO BE ADDED:
