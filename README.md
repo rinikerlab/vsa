@@ -29,10 +29,15 @@ If users of this code find any bugs, or have molecules where this given approach
   
   3. OUTPUT FILES
   - The calculation provides the following output files:
+  
     a) exp.txt, the normalized experimental spectrum in the range [a,b]
+    
     b) +distafter.txt and -distafter.txt, the energy after optimization
+    
     c) +convergence.txt and -convergence.txt, the convergence of the optimzation
+    
     d) +0.txt, +1.txt, ..., +n.txt and -0.txt, -1.txt, ..., -n.txt, the aligned conformer to the experimental spectrum.
+    
     
 TO BE ADDED:
 1. GUI
