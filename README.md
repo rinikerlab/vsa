@@ -15,8 +15,9 @@ If users of this code find any bugs, or have molecules where this given approach
 
 
 1. INSTALLATION GUIDE
+
 Requirements:
-  - Tested under 
+  - Tested under:
     - Centos 7.6 and Ubuntu 18.04
     - GCC compiler 4.8.5 and 5.2.0, c++11 standard
 Compilation:
