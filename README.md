@@ -13,11 +13,20 @@ The idea behind this approach is two fold:
 
 If users of this code find any bugs, or have molecules where this given approach does not work, please share it with us.
 
-TO BE ADDED:
+
 1. INSTALLATION GUIDE
+Requirements:
+  - Tested under 
+    - Centos 7.6 and Ubuntu 18.04
+    - GCC compiler 4.8.5 and 5.2.0, c++11 standard
+Compilation:
+  - g++ -std=c++11 *.cpp -o VSA.out
 2. EXAMPLE FILES
-3. GUI
-4. SI/SSO for comparison
-5. ANALYSIS SCRIPTS USED IN THE ORIGINAL PUBLICATION
-6. SCRIPTS TO CREATE THE CONFORMATIONAL ENSEMBLE
-7. INTERFACES TO TURBOMOLE, GAUSSIAN16, DALTON
+
+
+TO BE ADDED:
+2. GUI
+3. SI/SSO for comparison
+4. ANALYSIS SCRIPTS USED IN THE ORIGINAL PUBLICATION
+5. SCRIPTS TO CREATE THE CONFORMATIONAL ENSEMBLE
+6. INTERFACES TO TURBOMOLE, GAUSSIAN16, DALTON
