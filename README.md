@@ -25,11 +25,18 @@ If users of this code find any bugs, or have molecules where this given approach
   - g++ -std=c++11 *.cpp -o VSA.out
   
   2. EXAMPLE FILES
-
-
+  - The Example archiv contains all rigide molecules and methylcyclohexanon presented in the original publication. Just create an alias to your ~/.bashrc, change to the desired molecule and run VSA input.
+  
+  3. OUTPUT FILES
+  - The calculation provides the following output files:
+    a) exp.txt, the normalized experimental spectrum in the range [a,b]
+    b) +distafter.txt and -distafter.txt, the energy after optimization
+    c) +convergence.txt and -convergence.txt, the convergence of the optimzation
+    d) +0.txt, +1.txt, ..., +n.txt and -0.txt, -1.txt, ..., -n.txt, the aligned conformer to the experimental spectrum.
+    
 TO BE ADDED:
-2. GUI
-3. SI/SSO for comparison
-4. ANALYSIS SCRIPTS USED IN THE ORIGINAL PUBLICATION
-5. SCRIPTS TO CREATE THE CONFORMATIONAL ENSEMBLE
-6. INTERFACES TO TURBOMOLE, GAUSSIAN16, DALTON
+1. GUI
+2. SI/SSO for comparison
+3. ANALYSIS SCRIPTS USED IN THE ORIGINAL PUBLICATION
+4. SCRIPTS TO CREATE THE CONFORMATIONAL ENSEMBLE
+5. INTERFACES TO TURBOMOLE, GAUSSIAN16, DALTON
