@@ -25,8 +25,7 @@ If users of this code find any bugs, or have molecules where this given approach
   - g++ -std=c++11 *.cpp -o VSA.out
   
   2. EXAMPLE FILES
-  - The Example archiv contains all rigide molecules and methylcyclohexanon presented in the original publication. Just create an alias to your ~/.bashrc, change to the desired molecule and run VSA input.
-  
+  - To do:
   3. OUTPUT FILES
   - The calculation provides the following output files:
   
