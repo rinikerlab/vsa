@@ -1,3 +1,5 @@
+An updated python script for the code is going to be uploaded at the end of january, which is also capable to do many other things. The old files can be found in VSA_old.
+
 # vsa
 
 
