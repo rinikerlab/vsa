@@ -1,4 +1,4 @@
-An updated python script for the code is going to be uploaded at the end of january, which is also capable to do many other things. The old files can be found in VSA_old.
+An updated python script for the code is going to be uploaded at the end of january, with a simplified Input Output scheme. The old files can be found in VSA_old.
 
 # vsa
 
@@ -26,9 +26,7 @@ If users of this code find any bugs, or have molecules where this given approach
   Compilation:
   - g++ -std=c++11 *.cpp -o VSA.out
   
-  2. EXAMPLE FILES
-  - To do:
-  3. OUTPUT FILES
+  2. OUTPUT FILES
   - The calculation provides the following output files:
   
     a) exp.txt, the normalized experimental spectrum in the range [a,b]
@@ -39,10 +37,3 @@ If users of this code find any bugs, or have molecules where this given approach
     
     d) +0.txt, +1.txt, ..., +n.txt and -0.txt, -1.txt, ..., -n.txt, the aligned conformer to the experimental spectrum.
     
-    
-TO BE ADDED:
-1. GUI
-2. SI/SSO for comparison
-3. ANALYSIS SCRIPTS USED IN THE ORIGINAL PUBLICATION
-4. SCRIPTS TO CREATE THE CONFORMATIONAL ENSEMBLE
-5. INTERFACES TO TURBOMOLE, GAUSSIAN16, DALTON
